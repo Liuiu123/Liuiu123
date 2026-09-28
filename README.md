@@ -54,11 +54,13 @@ Projeto desenvolvido durante meus estudos de Análise de Dados, explorando técn
 ## 📈 Estatísticas
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liuiu123&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liuiu123&layout=compact&theme=dark"/>
-
+ 
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Liuiu123&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+ 
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liuiu123&layout=compact&theme=dark" />
+ 
 </div>
 
 ---
